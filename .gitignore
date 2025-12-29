@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+data/
+venv/
+.ipynb_checkpoints/
+*.parquet
+tmp/
+/tmp/collector
